@@ -1,2 +1,6 @@
 tgb:
-  arn: arn:aws:elasticloadbalancing:us-east-1:348165962265:targetgroup/stackly-dev-frontend/6a9c5ea27426b77a
+  arn: arn:aws:elasticloadbalancing:us-east-1:348165962265:targetgroup/stackly-dev-frontend/31b57e19edccfcac
+
+
+
+  
